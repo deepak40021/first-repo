@@ -1,2 +1,2 @@
 # first-repo 
-aauthor-Deepak kumar
+author-Deepak kumar
